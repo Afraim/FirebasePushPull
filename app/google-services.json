@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "993056544827",
+    "firebase_url": "https://testdrive-afraim-default-rtdb.firebaseio.com",
+    "project_id": "testdrive-afraim",
+    "storage_bucket": "testdrive-afraim.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993056544827:android:817fac6ed01eb1b707241e",
+        "android_client_info": {
+          "package_name": "com.example.firebasepushpull"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993056544827-vmv39debkmo624sdp3m63mts95a8ijjd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8lYNgck-kV2jBotSWXrKxK5MG_9sWZfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993056544827-vmv39debkmo624sdp3m63mts95a8ijjd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
